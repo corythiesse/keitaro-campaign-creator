@@ -1,0 +1,15 @@
+# common
+.env
+
+# backend
+__pycache__
+.venv
+.pytest_cache
+.ruff_cache
+*.db
+*.db-journal
+
+# frontend
+dist
+node_modules
+coverage
